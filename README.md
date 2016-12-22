@@ -5,19 +5,19 @@
 ## 2016-12-21 Speakers:
 
 #### Making Lightning effects in canvas
-* Rex Soriano [github](https://github.com/awesomerex) 
+* Rex Soriano (lolo_r) [github](https://github.com/awesomerex) 
 * http://codepen.io/rex_soriano/pen/ENJjZX?editors=0110
 
 #### Publishing a React component on NPM
-* Ben Wiley [github](https://github.com/benwiley4000) 
+* Ben Wiley (benwiley4000) [github](https://github.com/benwiley4000) 
 * https://github.com/benwiley4000/jslou-react-component-module-16
 
 #### Intro to RxJS
-* Barry Rowe [github](https://github.com/barryrowe) 
+* Barry Rowe (tacosneverlie) [github](https://github.com/barryrowe) 
 * https://github.com/barryrowe/rxjs-demo
 
 #### Intro to Immutable js 
-* Brennan [github](https://github.com/holtchesley) 
+* Brennan (holtchesley) [github](https://github.com/holtchesley) 
 * link coming soon
 
 #### Scraping web pages with node and cheerio
