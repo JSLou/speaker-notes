@@ -22,4 +22,4 @@
 
 #### Scraping web pages with node and cheerio
 * Alex Bezuska [twitter](https://twitter.com/alexbezuska) [github](https://github.com/alexbezuska) 
-* link coming soon
+* https://github.com/AlexBezuska/scraping-sites-with-node
